@@ -1,0 +1,2330 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Learn",
+				"LearningNodeNBAdaptive"
+			],
+			[
+				"LearningNo",
+				"LearningNodeNB"
+			],
+			[
+				"add",
+				"addonWeight"
+			],
+			[
+				"block",
+				"blockAddonWeight"
+			],
+			[
+				"cu",
+				"cumulativeAccuracy"
+			],
+			[
+				"num",
+				"numInstancesSeen"
+			],
+			[
+				"spark",
+				"sparkContext"
+			],
+			[
+				"true",
+				"truePrediction"
+			],
+			[
+				"count",
+				"countClassDistribution"
+			],
+			[
+				"coun",
+				"countClassDistribution"
+			],
+			[
+				"HoeffdingTree",
+				"HoeffdingTreeModel"
+			],
+			[
+				"Split",
+				"SplitNode"
+			],
+			[
+				"distr",
+				"distributionFromSplit"
+			],
+			[
+				"array",
+				"arraytoString"
+			],
+			[
+				"try",
+				"trySplit"
+			],
+			[
+				"best",
+				"bestSuggestions"
+			],
+			[
+				"arra",
+				"arraytoString"
+			],
+			[
+				"class",
+				"classDistribution"
+			],
+			[
+				"M",
+				"MajorityClass"
+			],
+			[
+				"learning",
+				"learningNodeType"
+			],
+			[
+				"counter",
+				"counterall"
+			],
+			[
+				"show",
+				"showConfusionMatrixOption"
+			],
+			[
+				"c",
+				"c	shortcut - class"
+			],
+			[
+				"val",
+				"valueOfClass"
+			],
+			[
+				"Confu",
+				"ConfusionMatrix"
+			],
+			[
+				"example",
+				"exampleSpecification"
+			],
+			[
+				"getExa",
+				"getExampleSpecification"
+			],
+			[
+				"foreach",
+				"foreachRDD"
+			],
+			[
+				"inac",
+				"inactiveNodeCount"
+			],
+			[
+				"ac",
+				"activeNodeCount"
+			],
+			[
+				"dec",
+				"decisionNodeCount"
+			],
+			[
+				"growth",
+				"growthAllowed"
+			],
+			[
+				"ist",
+				"isInstanceOf"
+			],
+			[
+				"active",
+				"activeNode"
+			],
+			[
+				"bes",
+				"bestSuggestions"
+			],
+			[
+				"Hoeff",
+				"HoeffdingTreeModel"
+			],
+			[
+				"get",
+				"getExamples"
+			],
+			[
+				"chun",
+				"chunkSizeOption"
+			],
+			[
+				"instanceLimit",
+				"instanceLimitOption"
+			],
+			[
+				"number",
+				"numberFeatures"
+			],
+			[
+				"numFeature",
+				"numFeaturesOption"
+			],
+			[
+				"input",
+				"inputFeatures"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"pointArray",
+				"pointArrayHCR"
+			],
+			[
+				"Heatmap",
+				"HeatmapLayer"
+			],
+			[
+				"point",
+				"pointArray"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"back",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main/scala/org/apache/spark/streamdm/streamDMJob.scala",
+			"settings":
+			{
+				"buffer_size": 1525,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/scala/org/apache/spark/streamdm/evaluation/BasicClassificationEvaluator.scala",
+			"settings":
+			{
+				"buffer_size": 8465,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/scala/org/apache/spark/streamdm/tasks/EvaluatePrequential.scala",
+			"settings":
+			{
+				"buffer_size": 7157,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/scala/org/apache/spark/streamdm/classifiers/trees/HoeffdingTree.scala",
+			"settings":
+			{
+				"buffer_size": 29811,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/scala/org/apache/spark/streamdm/classifiers/trees/FeatureClassObserver.scala",
+			"settings":
+			{
+				"buffer_size": 18793,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/scala/org/apache/spark/streamdm/classifiers/trees/Node.scala",
+			"settings":
+			{
+				"buffer_size": 22054,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/scala/org/apache/spark/streamdm/streams/PrintStreamWriter.scala",
+			"settings":
+			{
+				"buffer_size": 1348,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/scala/org/apache/spark/streamdm/streams/FileReader.scala",
+			"settings":
+			{
+				"buffer_size": 7033,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/run/run.sh",
+			"settings":
+			{
+				"buffer_size": 2999,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/run/accuracy.py",
+			"settings":
+			{
+				"buffer_size": 530,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/accuracy.py",
+			"settings":
+			{
+				"buffer_size": 1520,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_10000_NBA_splitMore.res",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_10000_NBA_splitMore_test.res",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_NBA_100000inst.res",
+			"settings":
+			{
+				"buffer_size": 7501,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_NBA_cov.res",
+			"settings":
+			{
+				"buffer_size": 6869,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "data/covtypeNorm.arff",
+			"settings":
+			{
+				"buffer_size": 103350912,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "data/randomtreedata.arff",
+			"settings":
+			{
+				"buffer_size": 133344633,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_MC.res",
+			"settings":
+			{
+				"buffer_size": 7502,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_MC_cov.res",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/majcl4_t.log",
+			"settings":
+			{
+				"buffer_size": 2572588,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_MC_cov_p_store.res",
+			"settings":
+			{
+				"buffer_size": 58848,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_NBA_cov_p.res",
+			"settings":
+			{
+				"buffer_size": 22716,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_NBA_p.res",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_NBA_elec.res",
+			"settings":
+			{
+				"buffer_size": 3620,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "data/electNormNew.arff",
+			"settings":
+			{
+				"buffer_size": 2994413,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_MC_cov_p_store_1.res",
+			"settings":
+			{
+				"buffer_size": 29410,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_NBA.res",
+			"settings":
+			{
+				"buffer_size": 7502,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_NBA_elec_p.res",
+			"settings":
+			{
+				"buffer_size": 2828,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_MC_elec_p.res",
+			"settings":
+			{
+				"buffer_size": 79220,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_NBA_complex_p_1.res",
+			"settings":
+			{
+				"buffer_size": 26650,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "replaceText.py",
+			"settings":
+			{
+				"buffer_size": 403,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_NBA_complex_p_2.res",
+			"settings":
+			{
+				"buffer_size": 26869,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_MC_cov_p_4threads.res",
+			"settings":
+			{
+				"buffer_size": 17289,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_MC_cov_p_8threads_1.res",
+			"settings":
+			{
+				"buffer_size": 20998,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_MC_cov_p_16threads_1.res",
+			"settings":
+			{
+				"buffer_size": 25886,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_MC_p.res",
+			"settings":
+			{
+				"buffer_size": 191184,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_MC_complex_p_4threads.res",
+			"settings":
+			{
+				"buffer_size": 32339,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_MC_cov_p.res",
+			"settings":
+			{
+				"buffer_size": 17081,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_MC_p_or.res",
+			"settings":
+			{
+				"buffer_size": 27928,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_NBA_p_or.res",
+			"settings":
+			{
+				"buffer_size": 28322,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_MC_elec_p_or.res",
+			"settings":
+			{
+				"buffer_size": 20100,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/splitThenMerge/hdt_1000_MC_p.res",
+			"settings":
+			{
+				"buffer_size": 13754145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/splitThenMerge/hdt_1000_MC_p_splitAll.res",
+			"settings":
+			{
+				"buffer_size": 92044,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_MC_p_splitAll.res",
+			"settings":
+			{
+				"buffer_size": 66364,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_MC_p_splitNTimes.res",
+			"settings":
+			{
+				"buffer_size": 66476,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_MC_cov_splitNTimes.res",
+			"settings":
+			{
+				"buffer_size": 21932,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_MC_complex_p_splitNTimes.res",
+			"settings":
+			{
+				"buffer_size": 61289,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_MC_elec_p_splitNTimes.res",
+			"settings":
+			{
+				"buffer_size": 4222,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt_1000_MC_elec_p_splitAll.res",
+			"settings":
+			{
+				"buffer_size": 4431,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"scala",
+				"Set Syntax: Scala"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/replaceText.py",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/data/electNormNew.arff",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/spark.sh",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/majcl4_t.log",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/run/runserver.sh",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/hdt_1000_NBA.accuracy",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/hdt_10000_NBA.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/hdt_10000_NBA_8threads.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/hdt_10000_NBA_2threads_1mil.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/hdt_100_NBA_small.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/hdt_100_NBA.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/hdt_10000_NBA_splitMore.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/majcl5_t_1000_NBA.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/streamDM (Spark Streaming).sublime-project",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/classifiers/trees/Evaluator.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/accuracy.py",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/classifiers/trees/Utils.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/evaluation/ClusteringEvaluator.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/majcl5_t_checkGaussianApproximation.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/majcl5_t.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/majcl4_t.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/classifiers/SGDLearner.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/majcl4Null_t.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/majcl4Null_t.log",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/majcl4.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/majcl4Null.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/hdt12.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/run/checkHDT5.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/run/checkHDT5_accuracy.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/run/checkHDT7.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/majcl2.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/majcl3.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/hdt6.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/hdt11.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/classifiers/trees/HoeffdingTree.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/hdt8.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/hdt10.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/hdt9.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/hd9.log",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/hdt2.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/data/bodyfat.arff",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/generateData.sh",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/core/DenseInstance.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/classifiers/model/LinearModel.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/classifiers/trees/SplitCriterion.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/data/randomtreedata.arff",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/data/hyperplanesampledata",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/data/hyperplanesampledata.arff.head",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/hdt2.log",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/02.Last Christmas - Wham [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/03.More Than I Can Say - Leo Sayer [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/04. Donna Donna - Claude Francois [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/05.Donna Donna - Yao Si Ting [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/06.Careless Whisper - Wham [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/07.Yesterday Once More - Carpenters [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/08.Because I Love You - Shakin_ Stevens [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/09.Until You - Shayne Ward [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/10.No Promises - Shayne Ward [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/11.One More Night - Maroon 5 [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/12.It_s Not Goodbye - Laura Pausini [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/13.Cry On My Shoulder - Super Stars [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/14.Hotel California - The Eagles [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/15.Sealed With A Kiss - Brian Hyland [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/16.Tonight I Celebrate My Love For You - Ya [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/17.Big Big World - Emilia [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/18.Love To Be Loved By You - Marc Terenzi [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/19.Take Me To Your Heart - Michael Learns T [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/Rolling In The Deep - Adele [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/Sealed With A Kiss - Yao Si Ting [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/20.Safe And Sound - Taylor Swift_ The Civil [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/01. Lemon Tree - Fools Garden [FLAC Lossless].flac",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/evaluation/Evaluator.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/hdt.log",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/core/specification/FeatureSpecification.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/learn.sbt",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/java/com/github/javacliparser/Option.java",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/java/com/github/javacliparser/Options.java",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/tasks/ClusteringTrainEvaluate.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/classifiers/trees/FeatureSplit.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/streams/PrintStreamWriter.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/run/stage1.log",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/data/covtypeNorm.arff",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/hdt.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/streams/StreamReader.scala",
+		"/Users/minhnguyen/StreamingAlgo/replaceText.py",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/spark_cluster.sh",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/evaluation/BasicClassificationEvaluator.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/tasks/EvaluatePrequential.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/run/new.log",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/target/test-reports/org.apache.spark.streamdm.classifiers.model.ZeroRegularizerSuite.xml",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/project/plugins.sbt",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/instance_server/server.py",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/streams/KafkaReader.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/streams/TextStreamReader.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/streams/SocketTextStreamReader.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/streams/generators/Generator.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/streams/generators/HyperplaneGenerator.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/java/com/github/javacliparser/ClassOption.java",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/streamDMJob.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/..sth.log",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/..sth.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/classifiers/HoeffdingTree.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/instance_server/generate_dataset.py",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/run/run.sh",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/classifiers/MultiClassLearner.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/sth.log",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/run/toserver.sh",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/core/specification/ExampleSpecification.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/core/Learner.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/run.sh",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/run_server.sh",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/core/Instance.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/core/ExampleParser.scala",
+		"/Users/minhnguyen/Downloads/reportDrug.ipynb.json",
+		"/Users/minhnguyen/Downloads/sample.java",
+		"/Users/minhnguyen/Downloads/sample.txt",
+		"/Users/minhnguyen/Google Drive/Telecom-ParisTech/Study/P2_IMA203/Tp5/TP_ModelesDeformables/TP_Modeles_Deformables.m",
+		"/Users/minhnguyen/Google Drive/Telecom-ParisTech/Study/P2_SD203 Web /TP/JS/helloworld.js",
+		"/Users/minhnguyen/Downloads/Bus Map/busmapPrediction/data 10.txt",
+		"/Users/minhnguyen/Downloads/Win10_English_x64/autorun.inf",
+		"/Users/minhnguyen/Google Drive/Telecom-ParisTech/Study/MDI210 Optimisation/TP1 /src/simplexeDemo_source_from_cfr/simplexe/Main.java",
+		"/Users/minhnguyen/Google Drive/Telecom-ParisTech/Study/MDI210 Optimisation/TP1 /src/simplexeDemo_source_from_cfr/matrice/Matrice.java",
+		"/Users/minhnguyen/Downloads/Bus Map/busmapPrediction/BusHeatMap-HCR-prediction copy.html",
+		"/Users/minhnguyen/Downloads/Bus Map/bus heat map - Ho con rua/BusHeatMapofFeb1-at6hour.html",
+		"/Users/minhnguyen/Downloads/Bus Map/BusHeatMap-HCR-HVT.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/its/sitebs.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/its/pagebs.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/its/heatmap.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Hoeffding",
+			"HoeffdingTree",
+			"accurac",
+			"{467.0,3094.0}",
+			"accuracy",
+			"hoeffd",
+			"stop",
+			"count",
+			"ERROR",
+			"accuracy",
+			"counter",
+			"accu",
+			"HoeffdingTreeModel: {7",
+			"HoeffdingTreeModel: {",
+			"counter",
+			"accuracy",
+			"Deactive",
+			"best",
+			"deactive",
+			"Accuracy",
+			"HoeffdingTreeModel: {",
+			"accurac",
+			"HoeffdingTreeModel: {",
+			"LearningNode",
+			"ActiveLear",
+			"this",
+			"tmodel",
+			"HoeffdingTreeModel: {",
+			"HoeffdingTree",
+			"Counter",
+			"this ",
+			"instanceof",
+			"blockAddOn",
+			"addOnwe",
+			"ClassDistr",
+			"After merging",
+			"After",
+			"accuracy",
+			"correct",
+			"accuracy",
+			"Cumulative",
+			"numInstancesCorrect",
+			"HoeffdingTreeModel: {",
+			"HoeffdingTreeModel",
+			"Total del",
+			"delay",
+			"HoeffdingTreeModel: {",
+			"total",
+			"ClassDistr:",
+			"ClassDistr ",
+			"classdistr ",
+			"classdistr",
+			"new model",
+			"merge",
+			"CheckActive",
+			"checkActive",
+			"println",
+			"new model",
+			"root.description",
+			"description",
+			"extends Node",
+			"children",
+			"splitNode",
+			"filterto",
+			"numBins",
+			"splitTranspose",
+			"classDis",
+			"splitall",
+			"binary",
+			"bestSplit",
+			"featureObservers",
+			"train",
+			"merge",
+			"createLearningNode",
+			"addOnWeight",
+			"addOnweigh",
+			"addOn",
+			"addn",
+			"pure",
+			"suggestions",
+			"Hoeffding",
+			"suggestions",
+			"best sug",
+			"suggestion",
+			"suggest",
+			"suggestion",
+			"blockNumExamples",
+			"block",
+			"learn",
+			"arraytoString",
+			"train",
+			"split",
+			"HoeffdingTreeModel",
+			"Update",
+			"tree",
+			"tModel",
+			"before",
+			"root.descr",
+			"description",
+			"blockClassDis",
+			"block",
+			"Before",
+			"counter",
+			" =>",
+			"toString",
+			"accuracy7232",
+			".931",
+			".06",
+			"blockClass",
+			"blockCl",
+			"learn",
+			"blockClas",
+			"learn",
+			".learn",
+			"learn.",
+			"learn",
+			"classD",
+			"Majorit",
+			"learningNodeOpt",
+			"update",
+			"SparkUI",
+			"8080",
+			"delay",
+			"train",
+			"merge",
+			"HoeffdingTreeModel",
+			"{",
+			"merge"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 43,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main/scala/org/apache/spark/streamdm/streamDMJob.scala",
+					"settings":
+					{
+						"buffer_size": 1525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/main/scala/org/apache/spark/streamdm/evaluation/BasicClassificationEvaluator.scala",
+					"settings":
+					{
+						"buffer_size": 8465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/main/scala/org/apache/spark/streamdm/tasks/EvaluatePrequential.scala",
+					"settings":
+					{
+						"buffer_size": 7157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1686.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/main/scala/org/apache/spark/streamdm/classifiers/trees/HoeffdingTree.scala",
+					"settings":
+					{
+						"buffer_size": 29811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 541.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/main/scala/org/apache/spark/streamdm/classifiers/trees/FeatureClassObserver.scala",
+					"settings":
+					{
+						"buffer_size": 18793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/main/scala/org/apache/spark/streamdm/classifiers/trees/Node.scala",
+					"settings":
+					{
+						"buffer_size": 22054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2334.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/main/scala/org/apache/spark/streamdm/streams/PrintStreamWriter.scala",
+					"settings":
+					{
+						"buffer_size": 1348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								292,
+								292
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 126.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/main/scala/org/apache/spark/streamdm/streams/FileReader.scala",
+					"settings":
+					{
+						"buffer_size": 7033,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3125.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "scripts/run/run.sh",
+					"settings":
+					{
+						"buffer_size": 2999,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "scripts/run/accuracy.py",
+					"settings":
+					{
+						"buffer_size": 530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								439,
+								439
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "scripts/accuracy.py",
+					"settings":
+					{
+						"buffer_size": 1520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								656,
+								656
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 229.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "scripts/result/hdt_10000_NBA_splitMore.res",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "scripts/result/hdt_10000_NBA_splitMore_test.res",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 25.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "scripts/result/hdt_1000_NBA_100000inst.res",
+					"settings":
+					{
+						"buffer_size": 7501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7403,
+								7403
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3822.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "scripts/result/hdt_1000_NBA_cov.res",
+					"settings":
+					{
+						"buffer_size": 6869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								193,
+								193
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2868.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "data/covtypeNorm.arff",
+					"settings":
+					{
+						"buffer_size": 103350912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								433,
+								433
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 936.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "data/randomtreedata.arff",
+					"settings":
+					{
+						"buffer_size": 133344633,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								469,
+								469
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "scripts/result/hdt_1000_MC.res",
+					"settings":
+					{
+						"buffer_size": 7502,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7090,
+								7090
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3822.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "scripts/result/hdt_1000_MC_cov.res",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3120.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "scripts/result/majcl4_t.log",
+					"settings":
+					{
+						"buffer_size": 2572588,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2572084,
+								2572084
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 584952.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "scripts/result/hdt_1000_MC_cov_p_store.res",
+					"settings":
+					{
+						"buffer_size": 58848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58382,
+								58382
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 29902.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "scripts/result/hdt_1000_NBA_cov_p.res",
+					"settings":
+					{
+						"buffer_size": 22716,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14452,
+								14452
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "scripts/result/hdt_1000_NBA_p.res",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 208171.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "scripts/result/hdt_1000_NBA_elec.res",
+					"settings":
+					{
+						"buffer_size": 3620,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3346,
+								3346
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "data/electNormNew.arff",
+					"settings":
+					{
+						"buffer_size": 2994413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6246,
+								6246
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 15866.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "scripts/result/hdt_1000_MC_cov_p_store_1.res",
+					"settings":
+					{
+						"buffer_size": 29410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5896,
+								5896
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 16580.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "scripts/result/hdt_1000_NBA.res",
+					"settings":
+					{
+						"buffer_size": 7502,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7363,
+								7363
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "scripts/result/hdt_1000_NBA_elec_p.res",
+					"settings":
+					{
+						"buffer_size": 2828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2700,
+								2700
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "scripts/result/hdt_1000_MC_elec_p.res",
+					"settings":
+					{
+						"buffer_size": 79220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "scripts/result/hdt_1000_NBA_complex_p_1.res",
+					"settings":
+					{
+						"buffer_size": 26650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26334,
+								26334
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 13627.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "replaceText.py",
+					"settings":
+					{
+						"buffer_size": 403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "scripts/result/hdt_1000_NBA_complex_p_2.res",
+					"settings":
+					{
+						"buffer_size": 26869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26246,
+								26246
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 13771.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "scripts/result/hdt_1000_MC_cov_p_4threads.res",
+					"settings":
+					{
+						"buffer_size": 17289,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17238,
+								17238
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 9280.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "scripts/result/hdt_1000_MC_cov_p_8threads_1.res",
+					"settings":
+					{
+						"buffer_size": 20998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 11750.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "scripts/result/hdt_1000_MC_cov_p_16threads_1.res",
+					"settings":
+					{
+						"buffer_size": 25886,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20274,
+								20278
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 14791.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": "scripts/result/hdt_1000_MC_p.res",
+					"settings":
+					{
+						"buffer_size": 191184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4034,
+								4034
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 100786.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 36,
+					"file": "scripts/result/hdt_1000_MC_complex_p_4threads.res",
+					"settings":
+					{
+						"buffer_size": 32339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31707,
+								31707
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 37,
+					"file": "scripts/result/hdt_1000_MC_cov_p.res",
+					"settings":
+					{
+						"buffer_size": 17081,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16307,
+								16307
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 8489.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 38,
+					"file": "scripts/result/hdt_1000_MC_p_or.res",
+					"settings":
+					{
+						"buffer_size": 27928,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27928,
+								27928
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 14071.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 39,
+					"file": "scripts/result/hdt_1000_NBA_p_or.res",
+					"settings":
+					{
+						"buffer_size": 28322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 14287.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 40,
+					"file": "scripts/result/hdt_1000_MC_elec_p_or.res",
+					"settings":
+					{
+						"buffer_size": 20100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20028,
+								20028
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 9589.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 41,
+					"file": "scripts/result/splitThenMerge/hdt_1000_MC_p.res",
+					"settings":
+					{
+						"buffer_size": 13754145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 783.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 42,
+					"file": "scripts/result/splitThenMerge/hdt_1000_MC_p_splitAll.res",
+					"settings":
+					{
+						"buffer_size": 92044,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21946,
+								21946
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 57118.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 43,
+					"file": "scripts/result/hdt_1000_MC_p_splitAll.res",
+					"settings":
+					{
+						"buffer_size": 66364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66297,
+								66297
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 39661.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 44,
+					"file": "scripts/result/hdt_1000_MC_p_splitNTimes.res",
+					"settings":
+					{
+						"buffer_size": 66476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66171,
+								66171
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 42252.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 45,
+					"file": "scripts/result/hdt_1000_MC_cov_splitNTimes.res",
+					"settings":
+					{
+						"buffer_size": 21932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16047,
+								16047
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 12084.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 46,
+					"file": "scripts/result/hdt_1000_MC_complex_p_splitNTimes.res",
+					"settings":
+					{
+						"buffer_size": 61289,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61222,
+								61222
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 38382.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 47,
+					"file": "scripts/result/hdt_1000_MC_elec_p_splitNTimes.res",
+					"settings":
+					{
+						"buffer_size": 4222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4038,
+								4038
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2184.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 48,
+					"file": "scripts/result/hdt_1000_MC_elec_p_splitAll.res",
+					"settings":
+					{
+						"buffer_size": 4431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4087,
+								4087
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"t",
+				"streamDM/scripts/run/toserver.sh"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true
+}

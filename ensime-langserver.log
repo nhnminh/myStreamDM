@@ -1,0 +1,17 @@
+[2017-04-07 16:27:29,464] INFO org.github.dragos.vscode.Main$ - Starting server in /Users/minhnguyen/StreamingAlgo/StreamDM/streamDM
+[2017-04-07 16:27:29,464] INFO org.github.dragos.vscode.Main$ - Starting server in /Users/minhnguyen/StreamingAlgo/StreamDM/streamDM
+[2017-04-07 16:27:29,485] INFO org.github.dragos.vscode.Main$ - Classpath: /Users/minhnguyen/.vscode/extensions/dragos.scala-lsp-0.1.3/coursier
+[2017-04-07 16:27:29,485] INFO org.github.dragos.vscode.Main$ - Classpath: /Users/minhnguyen/.vscode/extensions/dragos.scala-lsp-0.1.3/coursier
+[2017-04-07 16:27:30,002] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+[2017-04-07 16:27:30,440] INFO org.github.dragos.vscode.EnsimeLanguageServer - Initialized with 38363, /Users/minhnguyen/StreamingAlgo/StreamDM/streamDM, ClientCapabilities()
+[2017-04-07 16:27:30,440] INFO org.github.dragos.vscode.EnsimeLanguageServer - Initialized with 38363, /Users/minhnguyen/StreamingAlgo/StreamDM/streamDM, ClientCapabilities()
+[2017-04-07 16:27:31,793] ERROR langserver.core.Connection - No notification type exists with method=initialized
+[2017-04-07 16:27:31,793] ERROR langserver.core.Connection - No notification type exists with method=initialized
+[2017-04-07 16:27:42,640] INFO langserver.core.MessageReader - End of stream, terminating thread
+[2017-04-07 16:27:42,640] INFO langserver.core.MessageReader - End of stream, terminating thread
+[2017-04-07 16:27:42,642] INFO org.github.dragos.vscode.EnsimeLanguageServer - Shutdown request
+[2017-04-07 16:27:42,642] INFO org.github.dragos.vscode.EnsimeLanguageServer - Shutdown request
+[2017-04-07 16:27:42,643] INFO org.github.dragos.vscode.EnsimeLanguageServer - Shutting down actor system.
+[2017-04-07 16:27:42,643] INFO org.github.dragos.vscode.EnsimeLanguageServer - Shutting down actor system.
+[2017-04-07 16:27:42,666] INFO org.github.dragos.vscode.EnsimeLanguageServer - Actor system down.
+[2017-04-07 16:27:42,666] INFO org.github.dragos.vscode.EnsimeLanguageServer - Actor system down.
